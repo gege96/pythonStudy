@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pythonWord$word__1_.coverage" NAME="word (1) Coverage Results" MODIFIED="1501145473498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../word_cloud" />
+    <SUITE FILE_PATH="coverage/pythonWord$word__1_.coverage" NAME="word (1) Coverage Results" MODIFIED="1501146004643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../word_cloud" />
     <SUITE FILE_PATH="coverage/pythonWord$word.coverage" NAME="word Coverage Results" MODIFIED="1501144786648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
@@ -19,8 +19,8 @@
       <file leaf-file-name="word.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../word_cloud/word.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="125">
+              <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
               <folding>
                 <element signature="e#25#46#0" expanded="true" />
               </folding>
@@ -36,7 +36,7 @@
         </entry>
       </file>
       <file leaf-file-name="love.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../word_cloud/font/love.txt">
+        <entry file="file://$PROJECT_DIR$/../word_cloud/love.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/love.txt" />
         <option value="$PROJECT_DIR$/font/love.txt" />
         <option value="$PROJECT_DIR$/word.py" />
+        <option value="$PROJECT_DIR$/../word_cloud/word.py" />
       </list>
     </option>
   </component>
@@ -126,6 +127,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\py_project\word_cloud" />
+      <recent name="E:\py_project\word_cloud\font" />
       <recent name="E:\py_project\pythonWord\font" />
       <recent name="E:\py_project\pythonWord\image" />
     </key>
@@ -351,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -390,7 +393,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../word_cloud/font/love.txt">
+    <entry file="file://$PROJECT_DIR$/../word_cloud/love.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
@@ -405,8 +408,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../word_cloud/word.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="125">
+          <caret line="11" column="60" lean-forward="true" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
           <folding>
             <element signature="e#25#46#0" expanded="true" />
           </folding>
